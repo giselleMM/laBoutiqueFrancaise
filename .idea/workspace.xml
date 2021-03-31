@@ -1,8 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="d4b2419b-08d2-4efb-8060-d1304e59ef41" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/packages/security.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/security.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/packages/translation.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/translation.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/packages/twig.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/twig.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/home/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home/index.html.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,10 +158,13 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mariadb&#10;mysql" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/templates" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -157,10 +184,53 @@
       <workItem from="1611648647037" duration="1124000" />
       <workItem from="1614785610564" duration="175000" />
       <workItem from="1614785856457" duration="2502000" />
+      <workItem from="1614853613234" duration="2015000" />
+      <workItem from="1614873025918" duration="3656000" />
+      <workItem from="1614948300367" duration="2000" />
+      <workItem from="1614977796763" duration="285000" />
+      <workItem from="1616503418342" duration="225000" />
+      <workItem from="1616590924748" duration="22000" />
+      <workItem from="1616610950244" duration="4178000" />
+      <workItem from="1616675908935" duration="228000" />
+      <workItem from="1616702010184" duration="1411000" />
+      <workItem from="1616951160455" duration="4278000" />
+      <workItem from="1617028235594" duration="2136000" />
+      <workItem from="1617034909447" duration="9000" />
+      <workItem from="1617210875772" duration="656000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="42" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1616952763290">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="42" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768/-1920.0.1920.1080@0.0.1366.768" timestamp="1616952763290" />
+    <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1616503624829">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768/-1920.0.1920.1080@0.0.1366.768" timestamp="1616503624829" />
+    <state x="556" y="0" width="603" height="632" key="dock-window-1" timestamp="1614873769341">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="556" y="0" width="603" height="632" key="dock-window-1/0.0.1366.768/-1920.0.1920.1080@0.0.1366.768" timestamp="1614873769341" />
+    <state x="687" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1614873919371">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="687" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768/-1920.0.1920.1080@0.0.1366.768" timestamp="1614873919371" />
   </component>
 </project>
